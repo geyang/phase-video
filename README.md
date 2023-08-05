@@ -1,3 +1,5 @@
+**Ge's note:** An incomplete implementation of motion amplification.
+
 # Phase-Based Video Motion Processing
 
 **See results, descriptions and implementation details [here](https://rxian.github.io/phase-video/).**
